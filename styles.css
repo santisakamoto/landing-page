@@ -1,3 +1,19 @@
+* {
+    margin: 0;
+}
+
+.companies,
+img {
+    width: 70px;
+    height: 70px;
+}
+
+.ceroSection,
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
 .logo {
     height: 40px;
     width: 40px;
