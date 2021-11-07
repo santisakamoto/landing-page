@@ -47,6 +47,66 @@ footer {
     justify-content: center;
 }
 
+.firstSection p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+h1 {
+    font-weight: bold;
+    color: #f9faf8;
+    font-size: 48px;
+}
+
 .introduccion {
     margin: 40px 40px;
+}
+
+.firstsignup {
+    margin-top: 10px;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    border-radius: 15%;
+    border: #3882f6;
+    padding: 9px 7px 9px 7px;
+}
+
+.secondSection {
+    margin: auto;
+    height: auto;
+}
+
+h2 {
+    margin-left: 550px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.companies {
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: center;
+}
+
+.c {
+    margin: 40px 40px 40px 40px;
+    padding: 10px;
+    border: #3882f6 4px solid;
+    border-radius: 10%;
+}
+
+.thirdSection {
+    height: 200px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+blockquote {
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 10px;
+    font-style: italic;
+    color: #1f2937;
 }
