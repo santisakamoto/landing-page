@@ -110,3 +110,39 @@ blockquote {
     font-style: italic;
     color: #1f2937;
 }
+
+.fourthSection {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup {
+    background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    padding: 40px;
+}
+
+.calltoaction {
+    margin-right: 12px;
+}
+
+.signupbttn {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-color: #f9faf8;
+    border-radius: 15%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
